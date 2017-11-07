@@ -1,5 +1,5 @@
-# tinroof
-Code exercise for tin roof
+# Code Example with Spring Boot and Spring Data
+Code exercise 
 
 To build and run:
 
